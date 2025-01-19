@@ -1,0 +1,44 @@
+! Blurb file created by Inform Inform 10.1.2 (build )
+
+status "C:\Program Files\Inform\Internal\HTML\CblorbModel.html" "C:\Users\VLASIC\OneDrive\Dokumenti\Inform\Projects\upoznavanje.inform\Build\StatusCblorb.html"
+
+
+! Identification
+
+project folder "C:\Users\VLASIC\OneDrive\Dokumenti\Inform\Projects\upoznavanje.inform"
+release to "C:\Users\VLASIC\OneDrive\Dokumenti\Inform\Projects\upoznavanje.materials\Release"
+
+! Blorb instructions
+
+storyfile leafname "story.gblorb"
+storyfile "C:\Users\VLASIC\OneDrive\Dokumenti\Inform\Projects\upoznavanje.inform\Build\output.ulx" include
+ifiction "C:\Users\VLASIC\OneDrive\Dokumenti\Inform\Projects\upoznavanje.inform\Metadata.iFiction" include
+cover "C:\Program Files\Inform\Internal\Miscellany\DefaultCover.jpg"
+picture 1 "C:\Program Files\Inform\Internal\Miscellany\DefaultCover.jpg"
+picture 3 "C:\Users\VLASIC\OneDrive\Dokumenti\Inform\Projects\upoznavanje.materials\Figures\/magicstudio-art.jpg"
+picture 4 "C:\Users\VLASIC\OneDrive\Dokumenti\Inform\Projects\upoznavanje.materials\Figures\/papir.jpg"
+picture 5 "C:\Users\VLASIC\OneDrive\Dokumenti\Inform\Projects\upoznavanje.materials\Figures\/zelena.jpg"
+picture 6 "C:\Users\VLASIC\OneDrive\Dokumenti\Inform\Projects\upoznavanje.materials\Figures\/ljubi.jpg"
+picture 7 "C:\Users\VLASIC\OneDrive\Dokumenti\Inform\Projects\upoznavanje.materials\Figures\/osobe.jpg"
+sound 8 "C:\Users\VLASIC\OneDrive\Dokumenti\Inform\Projects\upoznavanje.materials\Sounds\/Hear.ogg"
+
+! Placeholder variables
+
+placeholder [IFID] = "32FB9A03-0550-4D39-B2D3-D176004F9D08"
+placeholder [RELEASE] = "1"
+placeholder [YEAR] = "2025"
+placeholder [TITLE] = "Untitled"
+placeholder [AUTHOR] = "Anonymous"
+placeholder [BLURB] = "A work of interactive fiction."
+
+! Other material to release
+
+status alternative ||Using 'Release along with cover art', to provide something more distinctive than the default artwork above&nbsp;<a href=inform:/doc401.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with a website'&nbsp;<a href=inform:/doc403.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with an interpreter', for in-browser play on your website&nbsp;<a href=inform:/doc404.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with a file of "Such-and-Such" called "whatever.pdf"', perhaps to add a manual, or a welcoming note&nbsp;<a href=inform:/doc399.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the source text'&nbsp;<a href=inform:/doc410.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with a solution'&nbsp;<a href=inform:/doc409.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the library card'&nbsp;<a href=inform:/doc410.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the introductory booklet'&nbsp;<a href=inform:/doc402.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the introductory postcard'&nbsp;<a href=inform:/doc402.html><img border=0 src=inform:/doc_images/help.png></a>||
